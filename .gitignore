@@ -1,0 +1,8 @@
+.env
+last_run.txt
+send_quota.log
+.venv/
+venv/
+__pycache__/
+*.pyc
+.Python

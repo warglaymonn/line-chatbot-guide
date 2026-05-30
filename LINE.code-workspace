@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "LINE",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.executeInFileDir": true,
+    "python.terminal.launchArgs": ["-u"],
+    "python.REPL.sendToNativeREPL": false
+  }
+}
